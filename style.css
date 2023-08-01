@@ -1,0 +1,22 @@
+.pic {
+  background-image: url(https://picsum.photos/400/400);
+  padding-top: calc(5 / 4 * 100%);
+  background-size: cover;
+  background-position: center;
+  width: 400px;
+  height: 370px;
+  flex-shrink: 0;
+}
+
+.img-card {
+  background-image: url(https://picsum.photos/400/400);
+  padding-top: calc(5 / 4 * 100%);
+  background-size: cover;
+  background-position: center;
+  
+  flex-shrink: 0;
+}
+
+.text-box {
+  font-size: 0.9rem;
+}
